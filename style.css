@@ -1,0 +1,19 @@
+body {
+  background-color: white;
+  color: black;
+}
+
+.main {
+  width: 700px;
+  margin: auto;
+}
+
+ol>li {
+  margin-top: 20px;
+  font-weight: 800;
+}
+
+ul>li {
+  margin-top: 0px;
+  font-weight: 0;
+}
